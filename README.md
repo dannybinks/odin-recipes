@@ -1,1 +1,2 @@
 # odin-recipes
+This project will help me practice and demonstrate my current skills with html. Within this project, I will show how to properly setup an html file, use titles, create links within my webpage, add images, and finally create lists within my code.
